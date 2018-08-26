@@ -14,7 +14,7 @@ https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 This dataset has 35 features in total. We did Exploratory Data Analysis first by plotting the most possible features with respect to attrition to see the correlation.
 
 ## Files
-* Please see IBM HR Analytics Employee Attrition.ipynb for code and explanation.
-* Please see [IBM HR Analytics Employee Attrition & Performance.pdf](https://github.com/ElvaShen/IBM_HR_Analytics/files/2321365/IBM.HR.Analytics.Employee.Attrition.Performance.pdf)
+Please see IBM HR Analytics Employee Attrition.ipynb for code and explanation.
+Please see [IBM HR Analytics Employee Attrition & Performance.pdf](https://github.com/ElvaShen/IBM_HR_Analytics/files/2321365/IBM.HR.Analytics.Employee.Attrition.Performance.pdf)
  for summary of project.
 
