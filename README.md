@@ -8,13 +8,13 @@ The goal of this project is to uncover the factors that lead to employee attriti
 
 
 ## Datasets
-*This is a fictional dataset created by IBM data scientists collected from Kaggle.
+*This is a fictional dataset created by IBM data scientists collected from Kaggle.*
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 This dataset has 35 features in total. We did Exploratory Data Analysis first plotting the most possible features with respect to attrition to see the correlation.
 
 ## Files
-* Please see  for code and explanation.
+* Please see IBM HR Analytics Employee Attrition.ipynb for code and explanation.
 * Please see [IBM HR Analytics Employee Attrition & Performance.pdf](https://github.com/ElvaShen/IBM_HR_Analytics/files/2321365/IBM.HR.Analytics.Employee.Attrition.Performance.pdf)
  for summary of project.
 
